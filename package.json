@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.26.3",
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.1.2",
+    "node-dev": "^6.3.0",
+    "robotevents-api": "^0.4.0"
+  }
+}
